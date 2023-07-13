@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c253b358.css","mappings":"AACA,iBAEE,YAAa,CADb,WAIF,CACA,OACE,YAAa,CACb,WACF","sources":["index.css"],"sourcesContent":["\n.greet-container{\n  width: 500px;\n  height: 300px;\n  \n  \n}\n.image{\n  height: 250px;\n  width: 300px;\n}"],"names":[],"sourceRoot":""}
